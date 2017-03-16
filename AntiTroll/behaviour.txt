@@ -1,0 +1,518 @@
+13000000 : Star Door Behavior
+13000054 : Mr I. Behavior
+1300008C : Unused behaviour
+130000AC : Eye ball bullet
+130000F8 : Piranha Plant Particle
+13000118 : Unknown
+13000144 : Pole Grabbing
+13000174 : TH Island Top Trap Behavior
+13000194 : Tiny Island Top
+130001AC : Unused behaviour
+130001CC : Activate Cap Switch
+130001F4 : King Bob-omb behavior
+13000254 : Throw Mario
+13000278 : Unused behaviour
+1300029C : Unused behaviour
+130002B8 : Rock (JRB)
+130002C4 : Unused behaviour
+130002E4 : Unused behaviour
+13000338 : Unused behaviour
+130003BC : Unused behaviour
+13000400 : Unused behaviour
+13000428 : Unused behaviour
+13000444 : Unused behaviour
+1300046C : Unused behaviour
+13000494 : Aquarium Fish Group
+130004A8 : Opened Cannon
+130004E4 : Unused behaviour
+13000500 : Unused behaviour
+13000528 : Chuckya Behavior
+13000584 : Unused behaviour
+130005A8 : Unused behaviour
+130005B4 : Rotating Platform Behavior
+130005D8 : Tower Behav
+13000600 : Bullet Bill Cannon Behav
+13000624 : Breakable Wall
+13000638 : Breakable Wall 2 
+1300066C : Kickable Board
+130006A4 : Tower Door Behav
+130006D8 : Unused behaviour
+130006E0 : Clock-Like Rotation
+13000708 : Koopa Shell PowerUp
+13000720 : Exit Podium Warp
+1300075C : Fading Warp
+13000780 : Warp
+130007A0 : Warp (Pipe)
+130007DC : Unused behaviour
+130007F8 : Star
+1300080C : Star (100cc?)
+13000830 : Blue Coin (big goomba)
+13000888 : Yellow coin (Boo)
+130008D0 : Unused behaviour
+130008EC : Coin Formation
+1300090C : One Coin
+1300091C : Collectable Coin
+13000940 : Unused behaviour
+13000964 : Three yellow coins
+13000984 : Ten yellow coins
+130009A4 : Yellow coin
+130009E0 : Unused behaviour
+13000A14 : Star sparkle
+13000A34 : Unused behaviour
+13000A54 : Unused behaviour
+13000A64 : Unused behaviour
+13000A78 : Unused behaviour
+13000A98 : Unused behaviour
+13000ABC : Yellow triangle from wall
+13000AD8 : Unused behaviour
+13000AE8 : Unused behaviour
+13000AFC : Door Warp Behavior
+13000B0C : Door Behavior
+13000B58 : Grindel Behavior
+13000B8C : Thwomp Behavior 2
+13000BC8 : Thwomp Behavior
+13000C04 : Unused behaviour
+13000C28 : Tumbling Bridge Behavior
+13000C44 : Tumbling Bridge Behavior
+13000C64 : Unused behaviour
+13000C84 : Burning
+13000CC8 : Unused behaviour
+13000CFC : Moving & Solid Behav
+13000D30 : Elevator
+13000D6C : Unused behaviour
+13000D98 : Unused behaviour
+13000DB4 : Unused behaviour
+13000DD8 : Water Mist Behav
+13000DFC : Unused behaviour
+13000E24 : Unused behaviour
+13000E3C : Unused behaviour
+13000E40 : Unused behaviour
+13000E58 : Unused behaviour
+13000E70 : Unused behaviour
+13000E88 : Unused behaviour
+13000EAC : Unused behaviour
+13000ED0 : Unused behaviour
+13000F08 : Ukiki Behavior
+13000F14 : Unused behaviour
+13000F2C : Unused behaviour
+13000F48 : Little Cage Behavior
+13000F9C : 3 Sinking Platforms Behavior
+13000FC8 : Sinking Platform
+13001000 : Unused behaviour
+13001030 : Tilting Platform
+13001064 : Squishable Platforms
+13001098 : Unused behaviour
+130010B8 : Unused behaviour
+130010D8 : Rotation 2
+13001108 : Flame Thrower Behavior
+13001124 : Unused behaviour
+13001168 : Jumping FireBall
+13001184 : Red fire
+130011D0 : Shockwave
+130011EC : Unused behaviour
+13001214 : Black smoke
+13001254 : Unused behaviour
+1300127C : Unused behaviour
+13001298 : Multiple Coins
+130012B4 : SpinDrift Behavior
+130012F4 : Unknown
+13001318 : Unused behaviour
+13001340 : Unused behaviour
+13001368 : Unused behaviour
+13001390 : Unused behaviour
+130013A8 : Unused behaviour
+130013C4 : Unused behaviour
+130013DC : Unused behaviour
+13001408 : Moving on a Squarish Path
+1300142C : Unused behaviour
+13001448 : Unused behaviour
+13001468 : Floor Switch Animates Behav 20128
+13001478 : Floor Switch For Grills
+13001484 : Unused behaviour
+130014AC : Floor Switch Shows Hidden Objects
+130014BC : Hidden Object
+130014E0 : Breakable Box
+13001518 : Pushable
+13001548 : Heave-Ho Behavior
+130015A4 : Unused behaviour
+130015C0 : Cabin Door?
+130015E4 : Unused behaviour
+13001608 : Unused behaviour
+13001634 : Unused behaviour
+13001650 : Jumping Box
+1300167C : Unused behaviour
+130016AC : Unused behaviour
+130016B8 : Igloo Thing
+130016E4 : Unused behaviour
+13001714 : Yellow coin (Bowser)
+13001744 : Unused behaviour
+13001778 : Unused behaviour
+1300179C : Bullet Bill Behav
+130017F4 : Unused behaviour
+13001820 : Unused behaviour
+13001828 : Unused behaviour
+13001850 : Bowser Behavior
+130018CC : Unused behaviour
+13001904 : Unused behaviour
+13001920 : Tilting Bowser Lava Platform
+13001958 : Falling Bowser Platform
+13001984 : Unused behaviour
+130019C8 : Blue flame (Bowser)
+13001A0C : Unused behaviour
+13001A30 : Blue flame (Bowser)
+13001A74 : Red flame (bowser)
+13001AA4 : red flame (Bowser)
+13001AE8 : Unused behaviour
+13001B2C : Unused behaviour
+13001B54 : Unknown 3 (IC)
+13001B70 : Elevator(s)
+13001B88 : Unused behaviour
+13001BB4 : Unused behaviour
+13001BD4 : Unused behaviour
+13001BF4 : Castle Ground 0,0,0
+13001C04 : Pound For Event
+13001C34 : Unknown?
+13001C58 : Unknown
+13001C7C : Rotating Clock Arm
+13001C8C : Rotating Small Clock Arm
+13001CB0 : Ukiki opens cave
+13001D0C : Unused behaviour
+13001D14 : Rotating CCW
+13001D40 : Sinks When Stepping on it?
+13001D70 : Unused behaviour
+13001D78 : Moving Horizontally
+13001DA8 : Rotating CW With Fire Bars
+13001DCC : Unused behaviour
+13001E04 : Piece of Wood
+13001E30 : Floating Wood Bridge
+13001E4C : Unused behaviour
+13001E6C : Rotation around Y axis
+13001E94 : Sinking in Lava
+13001EC4 : Tilting Square
+13001EF8 : Tilting Inverted Pyramid
+13001F30 : Unused behaviour
+13001F3C : Koopa shell
+13001F68 : Unused behaviour
+13001F90 : Tox Box
+13001FBC : Piranha Plant Behav 2
+13002018 : Solid?
+13002038 : Unused behaviour
+13002068 : Unknown
+13002088 : Tuxie's Mother Behavior
+130020D8 : Unused behaviour
+130020E0 : Unused behaviour
+130020E8 : Small Penguin
+1300213C : Fish Group
+1300214C : Fish group
+1300215C : Fish Group Behavior
+13002178 : Unused behaviour
+13002194 : Platform Swivel 2
+130021C0 : Platform Swivel
+130021E4 : Chirp Chirp
+1300220C : Bub
+13002250 : [!] Box Behavior
+1300227C : Rotating excl mark
+1300229C : Unused behaviour
+130022B8 : Rock Solid
+130022D8 : Bowser Sub Door Behavior
+13002308 : Bowser's Sub Behavior
+13002338 : Sushi
+13002388 : Unused behaviour
+130023A4 : Exploding Box
+130023D0 : Ship Part 3
+130023EC : In Sunken Ship 3?
+1300241C : Sunken Ship part
+1300244C : Sunken Ship Part 2
+1300246C : In Sunken Ship?
+13002480 : In Sunken Ship 2?
+130024AC : Unused behaviour
+130024DC : Unused behaviour
+13002500 : Unused behaviour
+13002528 : Unused behaviour
+13002558 : Unused behaviour
+13002568 : Blue Coins Switching
+13002588 : Hidden Blue Coin
+130025C0 : Unused behaviour
+130025E0 : Openable grills
+130025F8 : Water Level Trigger
+13002620 : Unknown (WDW)
+13002634 : Unused behaviour
+13002650 : Tweester Behav
+13002684 : Unknown?
+1300269C : Unused behaviour
+130026D4 : Boo in Castle
+13002710 : Boo's Behavior
+13002768 : Patrolling Boo Buddy
+1300277C : Unused behaviour
+13002790 : Boo Buddy behavior
+130027D0 : Unknown
+130027E4 : Boo Buddy 3 Behavior
+130027F4 : Unused behaviour
+13002804 : Boo Buddy 2 Behavior
+1300286C : Staircase Step
+13002898 : Unused behaviour
+130028CC : Elevator
+130028FC : Tumbling Bookshelf
+1300292C : Elevator behavior
+13002968 : Rotating Merry-Go-Round
+13002998 : Shortcut Check 2?
+130029B4 : Unused behaviour
+130029E4 : Unused behaviour
+13002A10 : Unused behaviour
+13002A20 : Unknown
+13002A48 : Static & NOT Solid
+13002A54 : Unused behaviour
+13002A5C : Unknown (IC)
+13002A7C : Unused behaviour
+13002AA4 : Tree Behavior
+13002AD0 : Star Sparkle
+13002AF0 : Star Sparkle
+13002B08 : Unused behaviour
+13002B14 : Unused behaviour
+13002B5C : Scutlebug Behavior
+13002BA0 : Unknown (HMC)??
+13002BB8 : Whomp King Boss Behav
+13002BCC : Small Whomp
+13002C14 : Water up splash
+13002C60 : Unused behaviour
+13002C7C : Unused behaviour
+13002CB0 : Unused behaviour
+13002CE0 : Unused behaviour
+13002D28 : Unused behaviour
+13002D50 : Unused behaviour
+13002D7C : Unused behaviour
+13002DB0 : Unused behaviour
+13002DC0 : Unused behaviour
+13002E04 : Unused behaviour
+13002E20 : Unused behaviour
+13002E3C : Wind Blowing (Snow Man)
+13002E58 : Walking Penguin
+13002EA8 : Unused behaviour
+13002EF8 : Toad Message
+13002F40 : Star (Mario opens a door)
+13002FA0 : Unused behaviour
+13002FC0 : Unused behaviour
+13002FE4 : Unused behaviour
+13003008 : Unused behaviour
+1300302C : Unused behaviour
+13003048 : Unused behaviour
+13003068 : Yellow coin (bobomb)
+130030A4 : Blue Coin (Moving)
+130030D4 : Blue Coin (Sliding)
+13003104 : Blue Coin (Tossed in Air)
+13003134 : Seaweed
+13003158 : Bubbles
+13003174 : Bob-Omb Behavior
+130031AC : Unused behaviour
+130031DC : Pink Bob-omb with message
+13003228 : Pink Bob-omb Opening Cannon Behav
+13003274 : Cannon Trap Door
+130032A8 : Whirlpool
+130032C8 : Unknown
+130032E0 : Message Panel
+13003324 : Sign On Wall
+13003354 : Amp 2 Behavior
+13003388 : Amp Behavior
+130033BC : Butterfly Behav
+130033EC : Owl Behavior
+13003420 : Unused behaviour
+13003454 : Unused behaviour
+1300345C : Unused behaviour
+13003464 : Unused behaviour
+1300346C : Unused behaviour
+13003474 : Unused behaviour
+1300347C : Unused behaviour
+13003484 : Unused behaviour
+130034C4 : Unused behaviour
+13003510 : Explosion
+13003558 : Unused behaviour
+13003588 : Unused behaviour
+130035B0 : Unused behaviour
+13003604 : Unused behaviour
+1300360C : Unused behaviour
+13003614 : Unused behaviour
+1300362C : Small Bully Behavior
+13003660 : Big Bully Boss Behavior
+13003694 : Bully Behavior
+130036C8 : Small ice bully
+13003700 : Chill Bully Boss Behavior
+13003738 : Manta Rings Generator
+13003750 : Unused behaviour
+13003798 : Unused behaviour
+130037E0 : Unused behaviour
+130037EC : Bowser Bomb Behavior
+1300381C : Unused behaviour
+13003840 : Unused behaviour
+13003868 : Star Held up after Winning
+13003888 : Unused behaviour
+130038B0 : Unused behaviour
+130038D0 : Bascule Bridge Behavior
+130038E8 : Tilting bridge part
+13003910 : Moves Back & Forth 1
+13003940 : Moves Back & Forth 2
+13003970 : Sliding Platform 2
+130039A0 : Unused behaviour
+130039D4 : Moneybag Behav
+13003A08 : Rolling Ball
+13003A30 : Unused behaviour
+13003A58 : Cannon ball roll
+13003A80 : Metal Ball Generator 2
+13003AA4 : Metal Ball Generator
+13003AC8 : Mini Metal Balls Generator
+13003AE0 : Flapping Wing
+13003B00 : Spindel Behavior
+13003B30 : Moving Up And Down
+13003B60 : Pyramid Elevator
+13003B98 : Unused behaviour
+13003BB4 : Pyramid Top Behav
+13003BEC : Unused behaviour
+13003C0C : Unused behaviour
+13003C30 : Unknown
+13003C44 : Unknown
+13003C58 : Castle Flag Waving
+13003C7C : Camera Anchor?
+13003C90 : L Is Real 2041
+13003CA4 : Unknown??
+13003CB8 : Hidden at 120 Stars
+13003CE4 : Snowman's Bottom Behavior
+13003D0C : Snowman's Head Behav
+13003D34 : Unused behaviour
+13003D4C : Unused behaviour
+13003D74 : Big boulder
+13003DA0 : Drops Giant Boulders
+13003DB8 : Wing cap
+13003DD8 : Metal cap
+13003DF8 : Mario cap
+13003E1C : Vanish cap
+13003E3C : Collect Star
+13003E64 : Star type
+13003E8C : Hidden Red Coin Star Behavior 
+13003EAC : Red Coin Behavior
+13003EE4 : Windy
+13003EFC : Hidden Star
+13003F1C : Check Point
+13003F40 : Pitoune 2
+13003F78 : Unknown
+13003FA4 : Pitoune
+13003FDC : 1-up slow
+13004010 : 1-up fast
+13004044 : Sliding 1-up
+1300407C : 1-up!
+130040B4 : Unused behaviour
+130040EC : Hidden 1-up
+13004124 : Hidden 1-up Trigger
+13004148 : 1-up homes in on Mario
+13004180 : Unused behaviour
+130041A4 : Hidden 1-up in Tree
+130041BC : Controlable Platform
+130041F0 : Unused behaviour
+13004218 : Breakable Box
+13004244 : Sliding Snow Mound
+13004270 : Snow Waves Generator
+13004284 : Floating On Water
+130042B4 : Long water float
+130042E4 : Floating
+13004314 : Arrow Lift Behavior
+13004348 : Red coin number
+13004370 : Manta ray
+130043A0 : Falling Pillar
+130043C4 : Unused behaviour
+130043E0 : Pillar Base Behav
+13004400 : Beta Skull Box
+1300442C : Oscillating Pendulum
+1300444C : Treasure Chests (Ship)
+13004470 : Treasure Chests (Jolly)
+13004494 : Treasure Chests
+130044B8 : Unused behaviour
+130044E0 : Unused behaviour
+130044FC : MIPS Rabbit Behavior
+13004538 : Yoshi behavior
+13004580 : Koopa Behavior
+130045D0 : Waving Koopa Flag
+130045F8 : Koopa flag
+13004634 : Pokey Behavior
+13004668 : Pokey Head
+13004698 : Bat Behavior
+130046DC : Fly Guy Behavior
+1300472C : Goomba Walk
+13004770 : Three Goombas
+1300478C : Chain Chomp
+130047E4 : Chain Chomp Chain
+1300481C : Poundable
+13004868 : Exploding When Chain Chomp is Freed
+13004898 : Wiggler Behavior
+130048E0 : Unused behaviour
+13004918 : Evil Lakitu Behavior
+13004954 : Lakitu Behavior
+13004988 : Fwoosh Blowing Wind
+130049AC : Unused behaviour
+130049C8 : Spiny
+13004A00 : Monty Mole Behavior
+13004A58 : Monty Mole in Hole
+13004A78 : Dirty Monty Mole throws
+13004AB0 : Platform On Tracks
+13004AF4 : Unused behaviour
+13004B1C : Solid & Moving
+13004B44 : Four Rotating Platforms
+13004B6C : Unused behaviour
+13004B8C : Water Bubble Drop
+13004BA8 : Water bomb
+13004BD4 : Water bomb shadow
+13004BF0 : Rotating Clock Platform
+13004C24 : Clock Pendulum Behavior
+13004C5C : Clock Metal Platform
+13004C94 : Sliding Platform
+13004CCC : Rotating Gear Platform
+13004CF8 : Pushable Clock Box
+13004D28 : Clock Platform Behavior
+13004D64 : Clock Main Rotation
+13004D90 : Rotating Clock Platform
+13004DBC : Mr. Blizzard
+13004E08 : Unused behaviour
+13004E4C : Sliding Platform
+13004E78 : Rotation
+13004EA0 : Animates On Floor Switch Press
+13004ECC : Moves When Stepping on It
+13004EF8 : Recover Life
+13004F10 : Cannon Behavior
+13004F28 : Unused behaviour
+13004F40 : Eel
+13004F78 : Unused behaviour
+13004F90 : Dorrie
+13004FD4 : Haunted Chair Behavior
+13005024 : Mad Piano Behavior
+1300506C : Flying Bookend
+130050B4 : BookShelf Proximity Check?
+130050D4 : BookShelf Thing?
+130050F4 : Unused behaviour
+13005120 : Piranha Plant Behavior
+13005158 : Unused behaviour
+1300518C : Fire Spewer Behavior
+130051AC : Unused behaviour
+130051E0 : Snufit Behavior
+1300521C : Snifit Bullet
+1300525C : Grindel Behavior
+130052B4 : Eyerok Boss Behavior
+130052D0 : Unused behaviour
+13005310 : Klepto Behav
+13005354 : Multiple Birds flying
+13005380 : Racing Penguin
+130053C4 : Finishing Line Check
+130053DC : Shortcut Check
+130053F4 : Haunted Room Check?
+13005414 : Unused behaviour
+13005440 : Clam Shell Behav
+13005468 : Skeeter Behavior
+130054A0 : Unused behaviour
+130054B8 : Pendulum-Like Movement
+130054EC : ???-
+13005504 : Falling And Exploding Donut Lift
+13005528 : Unknown
+1300556C : Blue Star On The Ground
+13005598 : Butterfly Behavior
+130055DC : Bubba Behavior
+13005610 : Lakitu (At The Beginning) 
+13005638 : Unused behaviour
+1300565C : Unused behaviour
+13005680 : Unused behaviour
+130056A4 : Warp: Mario Start
